@@ -1,4 +1,4 @@
-git clone 
+git clone https://github.com/Anything-bro/Z-Mirror
 cd 
-pip install -r
+pip3 install -U -r requirements.txt
 bash start.sh
